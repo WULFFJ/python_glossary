@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
+#Unstructured glossary page from https://docs.python.org/3/glossary.html
 
 
 from bs4 import BeautifulSoup
